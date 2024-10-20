@@ -1,0 +1,12 @@
+Operators, if else And Number System
+1.Assignment Operators
+2.Arithmetic Operators
+3.Order of Operation
+4.Shorthand Operators
+5.Unary Operators
+6.If-else
+7.Relational Operators
+8.Logical Operators
+9.Operator Precedence
+10.Intro to Number System
+11.Intro to Bitwise Operators
