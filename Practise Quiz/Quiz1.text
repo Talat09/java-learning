@@ -1,0 +1,11 @@
+Answer in True or False:
+1.In java, a variable's name can start with a number. False
+2.char in java can store a single character. True
+3.Class names in java typically start with a lowercase letter. False
+4.100L is a valid long literal in java.True
+5.\d is an escape sequence in java for a digit character. False
+6.Scanner class is used for reading console input. True
+7.IN java, an int can be automatically converted to a byte. False
+8.Java variable names are case-sensitive. True
+9.Scanner Class can be used to read both primitive data types and strings. True
+10.Explicit casting is required to convert a double to an int. True
