@@ -1,5 +1,5 @@
 
-//checkk if a number is odd or even
+//Create a program that determines if a given number is odd or even.
 import java.util.Scanner;
 
 public class OddOrEven {
